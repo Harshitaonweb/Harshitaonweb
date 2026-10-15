@@ -1,3 +1,4 @@
+
 name: Generate Purple Contribution Snake
 
 on:
@@ -18,11 +19,11 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Harshitaonweb
           outputs: |
-            dist/github-snake.svg?color_snake=%23F5D0FE&color_dots=%23140B20%233B1D5B%237C3AED%23A855F7%23E9D5FF
+            dist/github-snake.svg?color_snake=%23F5D0FE&color_dots=%23140B20%2C%233B1D5B%2C%237C3AED%2C%23A855F7%2C%23E9D5FF
 
-      - name: Publish animation
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
