@@ -1,9 +1,19 @@
+## Animated Background
 <p align="center">
   <img src="assets/cherry-banner.svg" width="100%" alt="Purple cherry blossom developer banner"/>
 </p>
 
+## SYSTEM ANALYTICS
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Harshitaonweb&background=0D0B14&border=8B5CF6&stroke=6D28D9&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=A78BFA&hide_total_contributions=false"
+    alt="GitHub Contribution Streak Stats"
+    width="100%"
+  />
+</p>
 
+## System Analytics & Languages section
 <h2 align="center">SYSTEM ANALYTICS</h2>
 
 <table>
@@ -37,7 +47,7 @@
 
 
 
-
+## Connect Section
 <h2 align="center">✦ CONNECT WITH ME ✦</h2>
 
 <p align="center">
