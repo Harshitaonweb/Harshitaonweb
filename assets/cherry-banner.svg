@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090611"/>
+      <stop offset="48%" stop-color="#25103F"/>
+      <stop offset="100%" stop-color="#080712"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <g id="petal">
+      <path d="M0 0 C-12 -10 -8 -23 1 -19 C16 -16 12 -5 0 0Z"
+            fill="#E9B7FF" opacity=".9"/>
+      <path d="M0 0 Q3 -9 1 -17" fill="none"
+            stroke="#C084FC" stroke-width="1"/>
+    </g>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <ellipse cx="500" cy="120" rx="360" ry="140" fill="url(#glow)"/>
+  <g fill="none" stroke="#9D4EDD" opacity=".25">
+    <path d="M30 35 H110 M30 35 V70"/>
+    <path d="M970 225 H890 M970 225 V190"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="500" y="102" fill="#F8EEFF" font-size="48"
+          font-weight="bold" letter-spacing="13">HARSHITA</text>
+    <text x="500" y="137" fill="#D8B4FE" font-size="12"
+          letter-spacing="6">AI DEVELOPMENT · WEB ENGINEERING</text>
+    <text x="500" y="165" fill="#C4B5FD" font-size="11"
+          letter-spacing="2">BUILDING • LEARNING • EXPERIMENTING</text>
+  </g>
+  <g>
+    <use href="#petal" x="130" y="-20">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 40 300" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" additive="sum"
+        type="rotate" values="0; 150; 300" dur="7s"
+        repeatCount="indefinite"/>
+    </use>
+    <use href="#petal" x="310" y="-35">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -35 310" dur="9s" begin="-3s"
+        repeatCount="indefinite"/>
+    </use>
+    <use href="#petal" x="690" y="-20">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 30 300" dur="8s" begin="-5s"
+        repeatCount="indefinite"/>
+    </use>
+    <use href="#petal" x="860" y="-25">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -55 300" dur="10s" begin="-2s"
+        repeatCount="indefinite"/>
+    </use>
+    <use href="#petal" x="220" y="40">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 90 270" dur="11s" begin="-7s"
+        repeatCount="indefinite"/>
+    </use>
+    <use href="#petal" x="770" y="65">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -100 260" dur="9s" begin="-4s"
+        repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
