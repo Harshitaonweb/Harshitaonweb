@@ -17,7 +17,7 @@
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweblayout=compact&hide_border=true&bg_color=0D0918&title_color=D8B4FE&text_color=E9D5FF"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweb&layout=compact&hide_border=true&bg_color=0D0918&title_color=D8B4FE&text_color=E9D5FF"
         width="100%"
         alt="Most used languages"
       />
