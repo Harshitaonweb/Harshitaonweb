@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Harshitaonweb/Harshitaonweb/output/github-snake.svg"
     alt="Purple contribution snake animation"
     width="100%"
   />
