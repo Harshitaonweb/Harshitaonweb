@@ -13,30 +13,15 @@
   />
 </p>
 
-## System Analytics & Languages section
-<h2 align="center">SYSTEM ANALYTICS</h2>
+## MOST USED LANGUAGES
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Harshitaonweb&show_icons=true&hide_border=true&bg_color=0D0918&title_color=D8B4FE&text_color=E9D5FF&icon_color=C084FC"
-        width="100%"
-        alt="GitHub statistics"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweb&layout=compact&hide_border=true&bg_color=0D0918&title_color=D8B4FE&text_color=E9D5FF"
-        width="100%"
-        alt="Most used languages"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweb&layout=donut&langs_count=6&bg_color=0D0B14&title_color=C084FC&text_color=E9D5FF&border_color=8B5CF6&hide_border=false"
+    alt="Most Used Languages"
+    width="100%"
+  />
+</p>
 
 
 ## Contribution Graph
