@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweb&layout=compact&langs_count=6&bg_color=0D0B14&title_color=C084FC&text_color=E9D5FF&border_color=8B5CF6&hide_border=false&font=Arial"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweb&layout=compact&langs_count=6&bg_color=0D0B14&title_color=C084FC&text_color=E9D5FF&border_color=8B5CF6&hide_border=false"
     alt="Most Used Languages"
     width="85%"
   />
