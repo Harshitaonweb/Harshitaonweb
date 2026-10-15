@@ -9,7 +9,7 @@
   <img
     src="https://streak-stats.demolab.com/?user=Harshitaonweb&background=0D0B14&border=8B5CF6&stroke=6D28D9&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=A78BFA&hide_total_contributions=false"
     alt="GitHub Contribution Streak Stats"
-    width="85%"
+    width="65%"
   />
 </p>
 
@@ -19,7 +19,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweb&layout=compact&langs_count=6&bg_color=0D0B14&title_color=C084FC&text_color=E9D5FF&border_color=8B5CF6&hide_border=false"
     alt="Most Used Languages"
-    width="85%"
+    width="65%"
   />
 </p>
 
