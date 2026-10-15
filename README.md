@@ -23,15 +23,17 @@
 
 
 
+
 <h2 align="center">CONTRIBUTION PULSE</h2>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Harshitaonweb/Harshitaonweb/output/github-snake.svg"
-    alt="Purple contribution snake animation"
+    alt="Purple GitHub contribution snake"
     width="100%"
   />
 </p>
+
 
 
 
