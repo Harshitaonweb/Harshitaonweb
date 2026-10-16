@@ -3,6 +3,24 @@
   <img src="assets/cherry-banner.svg" width="100%" alt="Purple cherry blossom developer banner"/>
 </p>
 
+## ✦ WHAT I DO
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20ENGINEERING-4C1D95?style=for-the-badge&logo=openai&logoColor=E9D5FF" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-6D28D9?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/LLM%20EXPLORATION-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF" alt="LLM Exploration"/>
+  <img src="https://img.shields.io/badge/AI%20AGENTS-A855F7?style=for-the-badge&logo=probot&logoColor=FFFFFF" alt="AI Agents"/>
+</p>
+
+I'm a developer passionate about **building for the web and exploring AI engineering**. I enjoy creating interactive web experiences, developing reusable UI components, and learning how LLMs and AI agents work behind the scenes.
+
+- **Building:** Responsive web interfaces and practical React projects.
+- **Exploring:** LLMs, AI agents, MCP, structured outputs, and agent memory.
+- **Learning:** Backend technologies, databases, and tools for developing intelligent applications.
+- **Growing:** Turning what I learn into projects, experiments, and hands-on experience.
+
+*Always learning. Always building. Always exploring.*
+
 ## ✦ TECH STACK & FRAMEWORKS
 
 ### Languages & Web Development
