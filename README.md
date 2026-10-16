@@ -3,24 +3,42 @@
   <img src="assets/cherry-banner.svg" width="100%" alt="Purple cherry blossom developer banner"/>
 </p>
 
-## SYSTEM ANALYTICS
+## ✦ TECH STACK & FRAMEWORKS
+
+### Languages & Web Development
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Harshitaonweb&background=0D0B14&border=8B5CF6&stroke=6D28D9&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=A78BFA&hide_total_contributions=false"
-    alt="GitHub Contribution Streak Stats"
-    width="75%"
-  />
+  <img src="https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logo=postgresql&logoColor=E9D5FF" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-5B21B6?style=for-the-badge&logo=python&logoColor=FDE68A" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-6D28D9?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=FDE68A" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React%20%2B%20Vite-A855F7?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React and Vite"/>
+  <img src="https://img.shields.io/badge/CSV-C084FC?style=for-the-badge&logo=files&logoColor=FFFFFF" alt="CSV"/>
+  <img src="https://img.shields.io/badge/Database%20Management-D8B4FE?style=for-the-badge&logo=databricks&logoColor=3B0764" alt="Database Management"/>
 </p>
 
-## MOST USED LANGUAGES
+### AI & LLM Development
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitaonweb&layout=compact&langs_count=6&bg_color=0D0B14&title_color=C084FC&text_color=E9D5FF&border_color=8B5CF6&hide_border=false"
-    alt="Most Used Languages"
-    width="65%"
-  />
+  <img src="https://img.shields.io/badge/LLMs-4C1D95?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-5B21B6?style=for-the-badge&logo=probot&logoColor=FFFFFF" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-6D28D9?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Pydantic-7C3AED?style=for-the-badge&logo=pydantic&logoColor=FFFFFF" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/Structured%20Outputs-8B5CF6?style=for-the-badge&logo=json&logoColor=FFFFFF" alt="Structured Outputs"/>
+  <img src="https://img.shields.io/badge/AI%20Middleware-A855F7?style=for-the-badge&logo=buffer&logoColor=FFFFFF" alt="AI Middleware"/>
+  <img src="https://img.shields.io/badge/Agent%20Memory-C084FC?style=for-the-badge&logo=databricks&logoColor=3B0764" alt="Agent Memory"/>
+</p>
+
+### Databases, Backend & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-4C1D95?style=for-the-badge&logo=redis&logoColor=FFFFFF" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Graph%20Databases-5B21B6?style=for-the-badge&logo=neo4j&logoColor=FFFFFF" alt="Graph Databases"/>
+  <img src="https://img.shields.io/badge/FalkorDB-6D28D9?style=for-the-badge&logo=databricks&logoColor=FFFFFF" alt="FalkorDB"/>
+  <img src="https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT Authentication"/>
+  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </p>
 
 
