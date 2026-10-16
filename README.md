@@ -72,7 +72,7 @@ I'm a developer passionate about **building for the web and exploring AI enginee
 <h2 align="center">✦ CONNECT WITH ME ✦</h2>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harshita-raj-172b16365/?isSelfProfile=true)">
+  <a href="[https://www.linkedin.com/in/harshita-raj-172b16365/?isSelfProfile=true](https://www.linkedin.com/in/harshita-raj-172b16365/?isSelfProfile=true)">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshitaonweb@gmail.com">
