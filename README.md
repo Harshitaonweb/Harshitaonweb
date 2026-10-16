@@ -42,7 +42,7 @@
 </p>
 
 
-## Contribution Graph
+## ✦ CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Harshitaonweb/Harshitaonweb/output/github-snake.svg" alt="Contribution Snake" />
@@ -50,7 +50,7 @@
 
 
 
-## Connect Section
+
 <h2 align="center">✦ CONNECT WITH ME ✦</h2>
 
 <p align="center">
